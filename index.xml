@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabian Hans</title>
-    <link>/</link>
+    <link>https://fabianhans.xyz/</link>
     <description>Recent content on Fabian Hans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 22 Jul 2019 22:44:11 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fabianhans.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who I Am</title>
-      <link>/post/whoiam/</link>
+      <link>https://fabianhans.xyz/post/whoiam/</link>
       <pubDate>Mon, 22 Jul 2019 22:44:11 +0200</pubDate>
       
-      <guid>/post/whoiam/</guid>
+      <guid>https://fabianhans.xyz/post/whoiam/</guid>
       <description> Basics  Currently enrolled in the Survey Methodology masters program at University of Duisburg-Essen Working Student at Fraunhofer IMS in Duisburg, Germany Based in Krefeld, Germany  Skills  Tools: R, Python, SPSS, STATA, LaTex, Microsoft Office, LimeSurvey
  Technical: Survey Research, Quantitative Methods, Data Analysis
  Personal: Curiosity, Willingness to learn, Verbal &amp;amp; Written Communication, Public Speaking  </description>

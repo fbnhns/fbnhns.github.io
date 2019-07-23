@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://fabianhans.xyz/</loc>
     <lastmod>2019-07-22T22:44:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://fabianhans.xyz/post/</loc>
     <lastmod>2019-07-22T22:44:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/whoiam/</loc>
+    <loc>https://fabianhans.xyz/post/whoiam/</loc>
     <lastmod>2019-07-22T22:44:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://fabianhans.xyz/series/</loc>
     <priority>0</priority>
   </url>
   
